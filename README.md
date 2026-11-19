@@ -1,9 +1,5 @@
 <div align="center">
-  <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=180&section=header&text=Hello%2C%20World!&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=root%40noahsvieira%3A~%23%20Desenvolvedor%20Back-end%20%7C%20Python%20%26%20Java%20%7C%20DevSecOps&descAlignY=60&descSize=15&descColor=FFFFFF](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=180&section=header&text=Hello%2C%20World!&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=root%40noahsvieira%3A~%23%20Desenvolvedor%20Back-end%20%7C%20Python%20%26%20Java%20%7C%20DevSecOps&descAlignY=60&descSize=15&descColor=FFFFFF)" />
-</div>
-
-<div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+python3+-c+%22print('Iniciando+arquitetura+segura...')%22;APIs+RESTful+%7C+Microsservi%C3%A7os+%7C+FastAPI+%7C+Java+%7C+SQL;Secure+Coding+%7C+OWASP+Top+10+%7C+An%C3%A1lise+de+Vulnerabilidades](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+python3+-c+%22print('Iniciando+arquitetura+segura...')%22;APIs+RESTful+%7C+Microsservi%C3%A7os+%7C+FastAPI+%7C+Java+%7C+SQL;Secure+Coding+%7C+OWASP+Top+10+%7C+An%C3%A1lise+de+Vulnerabilidades)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=%24+python3+-c+%22print('Hello%2C+World!')%22;root%40noahsvieira%3A~%23+.%2Finit_backend_sec.sh;Back-end+Developer+%7C+Python+%26+Java+%7C+DevSecOps" alt="Terminal Matrix" />
 </div>
 
 ---
@@ -11,7 +7,7 @@
 ### `> whoami --verbose`
 
 <pre>
-[SYSTEM]   Carregando perfil técnico...
+[SYSTEM]   Inicializando ambiente seguro... [OK]
 [DEV]      Noah Souza Vieira — Minas Gerais, Brasil
 [ROLE]     Desenvolvedor Back-end | Python & Java | Cibersegurança & DevSecOps
 [ACADEMIC] Pós-graduado em Segurança Cibernética (UNOPAR) & Ciência de Dados/IA (Anhanguera)
@@ -72,21 +68,16 @@
 
 ---
 
-### `> top -u noahsvieira`
-
-<div align="center">
-  <img height="175em" src="[https://github-readme-stats.vercel.app/api?username=noahsvieira&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=noahsvieira&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true)"/>
-  <img height="175em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=noahsvieira&layout=compact&langs_count=6&theme=matrix&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsvieira&layout=compact&langs_count=6&theme=matrix&hide_border=true)"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=noahsvieira&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=noahsvieira&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true)" />
-</div>
-
----
-
 ### `> netstat -connect`
 
-<div align="center">
-  <a href="[https://linkedin.com/in/noah-ti](https://linkedin.com/in/noah-ti)" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0000](https://img.shields.io/badge/LinkedIn-0000)
+<div align="left">
+  <a href="https://linkedin.com/in/noah-ti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:noahdeveloper01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/noahsvieira" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
+  </a>
+</div>
