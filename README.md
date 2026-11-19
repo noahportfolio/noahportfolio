@@ -3,9 +3,9 @@
 </div>
 
 <pre>
-[STATUS] Online — Minas Gerais, Brasil
-[FOCO]   APIs RESTful, Microsserviços, Secure Coding (OWASP) e Automação
-[BASE]   Pós-graduado em Segurança Cibernética & Ciência de Dados/IA
+[STATUS] Online — Brazil
+[FOCUS]  RESTful APIs, Microservices, Secure Coding (OWASP) & Automation
+[BASE]   Post-graduated in Cybersecurity & Data Science / AI
 </pre>
 
 ---
@@ -25,17 +25,17 @@
 
 ---
 
-### `> módulos`
+### `> modules`
 
-| Área | Entrega |
+| Area | Delivery |
 | :--- | :--- |
-| **Back-end & APIs** | Microsserviços em Python (FastAPI), Java e SQL com gateways de pagamento, webhooks e documentação OpenAPI. |
-| **AppSec & Pentest** | Exploração e remediação de falhas web (SQLi, XSS, RSA), labs (TryHackMe / HTB) e *write-ups* técnicos. |
-| **Dados & Auditoria** | Scripts de automação, análise de vulnerabilidades e controle rigoroso de integridade de dados. |
+| **Back-end & APIs** | Microservices in Python (FastAPI), Java, and SQL featuring payment gateways, webhooks, and OpenAPI documentation. |
+| **AppSec & Pentest** | Exploitation and remediation of web vulnerabilities (SQLi, XSS, RSA), labs (TryHackMe / HTB), and technical write-ups. |
+| **Data & Audit** | Automation scripts, vulnerability analysis, and rigorous data integrity control. |
 
 ---
 
-### `> conexões`
+### `> connections`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/noah-ti)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:noahdeveloper01@gmail.com)
