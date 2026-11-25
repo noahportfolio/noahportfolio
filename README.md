@@ -1,14 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00F0FF&height=140&section=header&text=J.A.R.V.I.S.%20PROTOCOL&fontSize=36&fontColor=00F0FF&fontAlignY=40&desc=STARK%20INDUSTRIES%20%7C%20SYSTEM%20INTERFACE&descAlignY=65&descSize=14" width="100%" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=%5BSYS.INIT%5D+Welcome+back%2C+Sir.;Noah+S.+Vieira+%7C+Back-end+%26+DevSecOps;Python+(FastAPI)+%7C+Java+%7C+SQL+%7C+AppSec" alt="J.A.R.V.I.S. HUD" />
+
+  <!-- HUD Circular Holográfica Estilo J.A.R.V.I.S. -->
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=600&auto=format&fit=crop" width="320" alt="J.A.R.V.I.S. HUD Core" style="border-radius: 50%; box-shadow: 0 0 25px #00F0FF;" />
+
+  <br><br>
+
+  <!-- Texto Dinâmico Passando no Centro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%5BSYS.INIT%5D+J.A.R.V.I.S.+Protocol+Online;Noah+S.+Vieira+%7C+Back-end+%26+DevSecOps;Python+(FastAPI)+%7C+Java+%7C+SQL+%7C+AppSec;Access+Granted+%E2%96%AE" alt="Terminal Typing" />
+
 </div>
+
+<br>
 
 <pre>
 [SYS_STATUS]  ONLINE — Operational Base: Brazil
 [DIRECTIVE]   RESTful APIs, Microservices, Secure Coding (OWASP) & Automation
 [CLEARANCE]   Post-graduated in Cybersecurity & Data Science / AI
-[ENCRYPTION]  AES-256 / RSA-4096 Active
 </pre>
 
 ---
@@ -45,7 +52,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050A14?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/noah-ti)
 [![Gmail](https://img.shields.io/badge/Gmail-050A14?style=for-the-badge&logo=gmail&logoColor=FFB800)](mailto:noahdeveloper01@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-050A14?style=for-the-badge&logo=tryhackme&logoColor=00F0FF)](https://tryhackme.com)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00F0FF&height=80&section=footer" width="100%" />
-</div>
