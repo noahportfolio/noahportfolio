@@ -37,6 +37,6 @@
 
 ### `> connections`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/noah-ti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/noahdevsecops)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:noahdeveloper01@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com)
