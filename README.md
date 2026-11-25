@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- HUD Circular Holográfica Estilo J.A.R.V.I.S. -->
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=600&auto=format&fit=crop" width="320" alt="J.A.R.V.I.S. HUD Core" style="border-radius: 50%; box-shadow: 0 0 25px #00F0FF;" />
+  <!-- Cabeçalho HUD Holográfico Animado -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050A14,50:003366,100:00F0FF&height=160&section=header&text=J.A.R.V.I.S.%20CORE%20SYSTEM&fontSize=28&fontColor=00F0FF&fontFamily=Orbitron&fontAlignY=35&desc=STARK%20INDUSTRIES%20%7C%20SECURE%20HUD&descColor=FFB800&descSize=13&descAlignY=65" width="100%" />
 
-  <br><br>
+  <br>
 
-  <!-- Texto Dinâmico Passando no Centro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%5BSYS.INIT%5D+J.A.R.V.I.S.+Protocol+Online;Noah+S.+Vieira+%7C+Back-end+%26+DevSecOps;Python+(FastAPI)+%7C+Java+%7C+SQL+%7C+AppSec;Access+Granted+%E2%96%AE" alt="Terminal Typing" />
+  <!-- Texto Dinâmico de Comando -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%5BSYS.INIT%5D+Welcome+back%2C+Sir.;Noah+S.+Vieira+%7C+Back-end+%26+DevSecOps;Python+(FastAPI)+%7C+Java+%7C+SQL+%7C+AppSec;Access+Granted+%E2%96%AE" alt="Terminal Typing" />
 
 </div>
 
