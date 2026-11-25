@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=%24+print('Hello%2C+World!');Noah+S+Vieira+%7C+Back-end+%26+DevSecOps;Python+(FastAPI)+%7C+Java+%7C+SQL+%7C+AppSec" alt="Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=%24+print('Hello%2C+World!');Noah+S.+Vieira+%7C+Back-end+%26+DevSecOps;Python+(FastAPI)+%7C+Java+%7C+SQL+%7C+AppSec" alt="Terminal" />
 </div>
 
 <pre>
